@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: Manbolq # the main title
 
-tagline: Writeups and random posts # it will display as the sub-title
+tagline: Writeups and cybersecurity posts  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   manbolq's blog, for posting wrteups and some other intereseting stuff related to cybersecurity
