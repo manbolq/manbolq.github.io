@@ -2,7 +2,7 @@
 title: The Last Dance - HackTheBox CTF
 date: 2023-11-09 11:47:00 +0100
 categories: [CTFs, HackTheBox]
-tags: [chacha20, strem-cipher, python]
+tags: [chacha20, stream-cipher, python]
 img_path: /assets/images/BabyTimeCapsule
 math: true
 ---
