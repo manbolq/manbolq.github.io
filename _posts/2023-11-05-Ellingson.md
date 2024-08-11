@@ -1,7 +1,7 @@
 ---
 title: Ellingson - HTB
 date: 2023-11-05 11:58:00 +0100
-categories: [Writeups, HackTheBox]
+categories: [Boxes, HackTheBox]
 tags: [werkzeug, password-cracking, john, suid, bof, buffer-overflow, ret2libc, aslr]
 img_path: /assets/images/Ellingson
 ---

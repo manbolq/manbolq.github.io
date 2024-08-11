@@ -1,7 +1,7 @@
 ---
 title: Year of the Fox
 date: 2023-10-09 21:24:00 +0200
-categories: [Writeups, TryHackMe]
+categories: [Boxes, TryHackMe]
 tags: [smb, hydra, command-injection, chisel, path-hijacking]
 img_path: /assets/images/YearOfTheFox
 math: true

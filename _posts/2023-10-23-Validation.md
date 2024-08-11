@@ -1,7 +1,7 @@
 ---
 title: Validation
 date: 2023-10-23 14:11:00 +0200
-categories: [Writeups, HackTheBox]
+categories: [Boxes, HackTheBox]
 tags: [sqli, rce]
 img_path: /assets/images/Validation
 ---

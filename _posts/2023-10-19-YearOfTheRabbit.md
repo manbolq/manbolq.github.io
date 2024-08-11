@@ -1,7 +1,7 @@
 ---
 title: Year of the Rabbit
 date: 2023-10-09 18:47:00 +0200
-categories: [Writeups, TryHackMe]
+categories: [Boxes, TryHackMe]
 tags: [fuzzing, hydra, ftp, brainfuck, ssh, sudo]
 img_path: /assets/images/YearOfTheRabbit
 ---
